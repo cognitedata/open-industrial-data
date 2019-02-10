@@ -52,9 +52,9 @@ A bit excited about that time series data you saw in Part 3? We get it. Here are
 - Supervised sensor prediction
 - Unsupervised anomaly detection
 
-And of course, we have [a notebook](Part 4b - Data Science.ipynb) to get you started.
+We have [a notebook](https://colab.research.google.com/github/cognitedata/open-industrial-data/blob/master/workshops/uni-hackathon/Part%204b%20-%20Data%20Science.ipynb) to get you started.
 
 ## When you're done
-Thanks for participating! Share your work with the world and contribute to the vision of Ope Industrial Data!
+Thanks for participating! Share your work with the world and contribute to the vision of Open Industrial Data!
 
 And don't forget that, like most other companies, we look at Github profiles when we recruit for the Data Science, and strongly encourage you to build up a history of **unique** work. It could be your foot in the door to your dream job :)
