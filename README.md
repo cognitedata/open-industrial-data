@@ -16,6 +16,8 @@ Open industrial data originates from a single compressor on Aker BP’s Valhall 
 
 The data set available in the Cognite Data Platform includes time series data, maintenance history, and Process & Instrumentation Diagrams (P&IDs) for Valhall’s first stage compressor and associated process equipment: first stage suction cooler, first stage suction scrubber, first stage compressor and first stage discharge coolers. In addition, data from the compressor’s lubrication system, dry gas seal system and condition monitoring system (temperature and vibration) will be available.
 
+Interested to read more about the project? Read the [white paper](https://cognite.com/media/1145/open-industrial-data-cognite-akerbp.pdf).
+
 # [Cognite Workshops](workshops)
 *Events, training sessions and workshops to build the open industrial data ecosystem.*
 

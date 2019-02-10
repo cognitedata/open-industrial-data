@@ -1,2 +1,4 @@
-# Building a digital solution on Open Industrial Data
+# Open industrial data
+
+
 

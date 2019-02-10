@@ -1,0 +1,5 @@
+matplotlib
+scikit-learn
+pandas
+cognite-sdk
+seaborn
