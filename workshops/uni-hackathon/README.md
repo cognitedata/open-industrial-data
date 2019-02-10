@@ -36,13 +36,14 @@ Otherwise, we recommend [Google Colab](https://colab.research.google.com/noteboo
 - Run the notebook from start to finish, exploring the asset hierarchy and timeseries for the asset you chose in Part 2 (use <shift+enter> to step through the cells and run the code snippets).
 
 ## Part 4: Specialization hackathon
-Time to split into specializations! Build an engaging visualization in Operational Intelligence, or continue writing code!
+Time to split into specializations! Either build an engaging visualization in Operational Intelligence, or continue writing code!
 
 ### Part 4a: Real time data visualization
-In your notebook from part 3, you generated a list of timeseries associated with your asset of choice. Let's liberate that data by creating an engaging visualization!
-- Research your asset of choice
-- Draw a simplified representation or find a diagram
-- Attach time series in the relevant locations
+In your notebook from part 3, you generated a list of timeseries associated with your asset of choice. Let's head back over to [Operational Intelligence](https://opint.cogniteapp.com/publicdata/infographics) and liberate that data by creating an engaging visualization!
+- Research your asset of choice ([ABB Oil & Gas Production Handbook](https://library.e.abb.com/public/34d5b70e18f7d6c8c1257be500438ac3/Oil%20and%20gas%20production%20handbook%20ed3x0_web.pdf))
+- Draw a simplified representation or find a diagram online
+- Create an infographic in OpInt. Be sure to select "Aker BP" when adding time series (tags).
+- Using the timeseries descriptions you loaded in `df_asset_children_timeseries` in your notebook from Part 3, identify and add time series to your infographic in the correct locations.
 - Publish your dashboard to the world!
 
 ### Part 4b: Data science
