@@ -28,7 +28,7 @@ We do infographics slightly differently here at Cognite: with real time data!
 
 ## Part 3: Asset data dive
 Let's get stuck into the data for our chosen asset. The Cognite [Python SDK](https://cognite-sdk-python.readthedocs-hosted.com/en/latest/ ) gives us full access to the industrial data.
-The notebook [Part 3 - Asset data dive](Part 3 - Asset data dive.ipynb) walks us through the basics of how industrial data is represented in CDP.
+The notebook "Part 3 - Asset data dive.ipynb" walks us through the basics of how industrial data is represented in CDP.
 
 If you have a notebook environment set up on your laptop, simply clone down this repo and get to work.
 Otherwise, we recommend [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true). Simply reference the url of the notebook in github from colab, or open the notebook [directly](https://colab.research.google.com/github/cognitedata/open-industrial-data/blob/master/workshops/uni-hackathon/Part%203%20-%20Asset%20data%20dive.ipynb).
