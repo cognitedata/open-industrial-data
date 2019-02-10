@@ -17,9 +17,8 @@ Although this is a data science hackathon, we have designed it to cover multiple
 - Head over to [openindustrialdata.com](openindustrialdata.com) and log in with a google account.
 - Read up on the project in this [white paper](https://cognite.com/media/1145/open-industrial-data-cognite-akerbp.pdf). We need your help to analyze the data!
 - Once logged in, head to the [Getting Started](https://openindustrialdata.com/get-started/) to generate an API key. Treat this key as a password, store it somewhere secure!
-- Log in to [Cognite Operational Intelligence](https://opint.cogniteapp.com/publicdata/)!
+- Watch the [instructional video](https://player.vimeo.com/video/299176372) and log in to [Cognite Operational Intelligence](https://opint.cogniteapp.com/publicdata/)!
 
-<iframe src="https://player.vimeo.com/video/299176372" width="640" height="350" frameborder="0" allowfullscreen></iframe>
 
 ## Part 2: Explore the 1st Stage Gas Export Compressor train on the Valhall platform
 ![System overview](static/SystemOverview.png)
@@ -32,7 +31,9 @@ Let's get stuck into the data for our chosen asset. The Cognite [Python SDK](htt
 The notebook [Part 3 - Asset data dive](Part 3 - Asset data dive.ipynb) walks us through the basics of how industrial data is represented in CDP.
 
 If you have a notebook environment set up on your laptop, simply clone down this repo and get to work.
-Otherwise, we recommend [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true).
+Otherwise, we recommend [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true). Simply reference the url of the notebook in github from colab.
+
+- Run the notebook from start to finish, exploring the asset hierarch and timeseries for the asset you chose in Part 2.
 
 ## Part 4: Specialization hackathon
 Time to split into specializations! Build an engaging visualization in Operational Intelligence, or continue writing code!
