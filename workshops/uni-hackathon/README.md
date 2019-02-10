@@ -14,7 +14,7 @@ Speak up, ask questions and work together. We can't wait to see what you come up
 Although this is a data science hackathon, we have designed it to cover multiple levels of experience. We start together, but then break out into different specializations, a lot like we do in our teams today at Cognite!
 
 ## Part 1: Get set up
-- Head over to [openindustrialdata.com](openindustrialdata.com) and log in with a google account.
+- Head over to [openindustrialdata.com](https://openindustrialdata.com) and log in with a google account.
 - Read up on the project in this [white paper](https://cognite.com/media/1145/open-industrial-data-cognite-akerbp.pdf). We need your help to analyze the data!
 - Once logged in, head to the [Getting Started](https://openindustrialdata.com/get-started/) to generate an API key. Treat this key as a password, store it somewhere secure!
 - Watch the [instructional video](https://player.vimeo.com/video/299176372) and log in to [Cognite Operational Intelligence](https://opint.cogniteapp.com/publicdata/)!
@@ -31,9 +31,9 @@ Let's get stuck into the data for our chosen asset. The Cognite [Python SDK](htt
 The notebook [Part 3 - Asset data dive](Part 3 - Asset data dive.ipynb) walks us through the basics of how industrial data is represented in CDP.
 
 If you have a notebook environment set up on your laptop, simply clone down this repo and get to work.
-Otherwise, we recommend [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true). Simply reference the url of the notebook in github from colab.
+Otherwise, we recommend [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true). Simply reference the url of the notebook in github from colab, or open the notebook [directly](https://colab.research.google.com/github/cognitedata/open-industrial-data/blob/master/workshops/uni-hackathon/Part%203%20-%20Asset%20data%20dive.ipynb).
 
-- Run the notebook from start to finish, exploring the asset hierarch and timeseries for the asset you chose in Part 2.
+- Run the notebook from start to finish, exploring the asset hierarchy and timeseries for the asset you chose in Part 2 (use <shift+enter> to step through the cells and run the code snippets).
 
 ## Part 4: Specialization hackathon
 Time to split into specializations! Build an engaging visualization in Operational Intelligence, or continue writing code!
