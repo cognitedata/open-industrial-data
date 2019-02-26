@@ -3,3 +3,5 @@ scikit-learn
 pandas
 cognite-sdk
 seaborn
+networkx
+plotly
