@@ -18,14 +18,11 @@ The data set available in the Cognite Data Platform includes time series data, m
 
 Interested to read more about the project? Read the [white paper](https://cognite.com/media/1145/open-industrial-data-cognite-akerbp.pdf).
 
-# [Cognite Workshops](workshops)
-*Events, training sessions and workshops to build the open industrial data ecosystem.*
+# [Cognite Workshop](workshop)
+*Events and training sessions to build on the open industrial data ecosystem.*
 
-### [University open data hackathon](workshops/uni-hackathon)
-Dive into open industrial data, exploring an equipment in the first stage compressor train on the Valhall platform.
-
-### [CDP Developer workshop](workshops/developer-workshop)
-Get to know the ins- and outs of the CDP SDK and other ways to access data stored in Cognite data platform.
+* Get to know the ins- and outs of the CDP SDK and other ways to access data stored in Cognite data platform.
+* Dive into open industrial data, exploring an equipment in the first stage compressor train on the Valhall platform.
 
 # [Contributions](contributions)
 A collection of interesting analyses by students, civil data scientists, customers, partners and finally Cogniters.

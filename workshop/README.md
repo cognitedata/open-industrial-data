@@ -31,7 +31,7 @@ Let's get stuck into the data for our chosen asset. The Cognite [Python SDK](htt
 The notebook "Part 3 - Asset data dive.ipynb" walks us through the basics of how industrial data is represented in CDP.
 
 If you have a notebook environment set up on your laptop, simply clone down this repo and get to work.
-Otherwise, we recommend [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true). Simply reference the url of the notebook in github from colab, or open the notebook [directly](https://github.com/cognitedata/open-industrial-data/blob/master/workshops/uni-hackathon/Part_3_Asset_Data_Dive.ipynb).
+Otherwise, we recommend [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true). Simply reference the url of the notebook in github from colab, or open the notebook [directly](https://github.com/cognitedata/open-industrial-data/blob/master/workshop/Part_3_Asset_Data_Dive.ipynb).
 
 - Run the notebook from start to finish, exploring the asset hierarchy and timeseries for the asset you chose in Part 2 (use <shift+enter> to step through the cells and run the code snippets).
 
@@ -53,7 +53,7 @@ A bit excited about that time series data you saw in Part 3? We get it. Here are
 - Supervised sensor prediction
 - Unsupervised anomaly detection
 
-We have [a notebook](https://colab.research.google.com/github/cognitedata/open-industrial-data/blob/master/workshops/uni-hackathon/Part_4b_Data_Science_Example.ipynb) to get you started.
+We have [a notebook](https://colab.research.google.com/github/cognitedata/open-industrial-data/blob/master/workshop/Part_4b_Data_Science_Example.ipynb) to get you started.
 
 ## When you're done
 Thanks for participating! Share your work with the world and contribute to the vision of Open Industrial Data!
