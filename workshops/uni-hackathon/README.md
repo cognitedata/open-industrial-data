@@ -2,7 +2,7 @@
     <img src="https://github.com/cognitedata/cognite-sdk-python/blob/master/img/cognite_logo.png" alt="Cognite logo" title="Cognite" align="right" height="80" />
 </a>
 
-# University Hackathon on Open Industrial Data
+# Introduction to Open Industrial Data
 
 Took a course on python programming in first year? Machine learning guru? Evangelical pythonista? Information designer? IoT geek? Welcome, we've got a spot for you all. We need your help to analyze and visualize the industrial world!
 
@@ -11,7 +11,7 @@ Speak up, ask questions and work together. We can't wait to see what you come up
 ![Cogniters](static/Cogniters.jpg)
 
 # Instructions
-Although this is a data science hackathon, we have designed it to cover multiple levels of experience. We start together, but then break out into different specializations, a lot like we do in our teams today at Cognite!
+Although this material references data science topics, we have designed it to cover multiple levels of experience. We start together, but then break out into different specializations, a lot like we do in our teams today at Cognite!
 
 ## Part 1: Get set up
 - Head over to [openindustrialdata.com](https://openindustrialdata.com) and log in with a google account.
@@ -31,11 +31,11 @@ Let's get stuck into the data for our chosen asset. The Cognite [Python SDK](htt
 The notebook "Part 3 - Asset data dive.ipynb" walks us through the basics of how industrial data is represented in CDP.
 
 If you have a notebook environment set up on your laptop, simply clone down this repo and get to work.
-Otherwise, we recommend [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true). Simply reference the url of the notebook in github from colab, or open the notebook [directly](https://colab.research.google.com/github/cognitedata/open-industrial-data/blob/master/workshops/uni-hackathon/Part%203%20-%20Asset%20data%20dive.ipynb).
+Otherwise, we recommend [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true). Simply reference the url of the notebook in github from colab, or open the notebook [directly](https://github.com/cognitedata/open-industrial-data/blob/master/workshops/uni-hackathon/Part_3_Asset_Data_Dive.ipynb).
 
 - Run the notebook from start to finish, exploring the asset hierarchy and timeseries for the asset you chose in Part 2 (use <shift+enter> to step through the cells and run the code snippets).
 
-## Part 4: Specialization hackathon
+## Part 4: Specialization
 Time to split into specializations! Either build an engaging visualization in Operational Intelligence, or continue writing code!
 
 ### Part 4a: Real time data visualization
